@@ -1,0 +1,1 @@
+http://localhost:19542/Home/ConfirmEmailAddress?token=CfDJ8Aoa3stt3JFBufy1%2B%2FvwqMHKcedykg2spF2gGM4b1ujzw%2BeK49JiwEv79rZesciydK%2BOAnQvQqJLCNu%2F730%2B5aq4XgalRN0vnEy5DkxfTlUpwgbqVdWNOqVmc7MVGEDZKrfslxNKRPb%2BUsDxYIxsKNAjUCxhOuhVcBHKwq%2B8N8Pio3Yh%2BO54p5qNnwHn6YDA8xLoPBlEf7Bg0bLf%2Bf7bW69W%2BW4di085hazR9%2FWtmhg3%2FEkKDEMhHvFN5qJjgG4XRQ%3D%3D&email=Sreng.Sun@infinity.com.kh
